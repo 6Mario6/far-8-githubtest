@@ -58,7 +58,7 @@ export default function Dashboard() {
         </Link>
       </div>
       <div className="name">
-        <Link className="nav-item" to="/jorge-elias">
+        <Link className="nav-item" to="/jorge-fernandez">
           Jorge Fernandez
         </Link>
       </div>
